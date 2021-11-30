@@ -67,11 +67,11 @@
     "dot-parse": {
       "flake": false,
       "locked": {
-        "lastModified": 1637747280,
-        "narHash": "sha256-4dCkJHDScWMevUI3SYkM47ON7K6GS4xHn6EwM9xzcZM=",
+        "lastModified": 1638264571,
+        "narHash": "sha256-VJQITz+vuQgl5HwR5QdUGwN8SRtGcb2/lJaAVfFbiSk=",
         "owner": "CodingCellist",
         "repo": "idris2-dot-parse",
-        "rev": "134452d797e21e3328e776781b24f7027ff67fc2",
+        "rev": "48fbda8bf8adbaf9e8ebd6ea740228e4394154d9",
         "type": "github"
       },
       "original": {
